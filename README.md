@@ -1,1 +1,1 @@
-# dataGuard
+# LicenseGuard
