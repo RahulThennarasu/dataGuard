@@ -1,3 +1,5 @@
-# ![Logo](logo.png) LicenseGuard
+# LicenseGuard
+
+![Logo](logo.png)
 
 
